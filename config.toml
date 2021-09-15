@@ -1,12 +1,12 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://erbaafidotama-blog.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Erba Afidotama Personal Website'
 theme = 'anatole'
 
 [params]
 title = "I'm Erba Afidotama"
 description = """
-I'm a Web Developer
+I'm Web Developer
 Full Stack
 """
 profilePicture = "/poo.png"
