@@ -1,4 +1,4 @@
-baseURL = 'https://erbaafidotama-blog.netlify.app/id'
+baseURL = 'https://erbaafidotama-blog.netlify.app'
 languageCode = 'id-ID'
 title = 'Erba Afidotama Personal Website'
 theme = 'anatole'
