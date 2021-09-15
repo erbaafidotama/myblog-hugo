@@ -1,0 +1,33 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'anatole'
+
+[params]
+title = "I'm Erba Afidotama"
+description = """
+I'm a Web Developer
+Full Stack
+"""
+profilePicture = "/poo.png"
+copyright = "2020-{{ YEAR }} | Theme by Anatole"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 200
+  identifier = "blog"
+  url = "/blog/"
+
+  [[menu.main]]
+  name = "Project"
+  weight = 300
+  identifier = "project"
+  url = "/projects/"
