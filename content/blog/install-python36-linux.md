@@ -2,6 +2,13 @@
 title: "Install Python3.6 - Linux"
 date: 2021-09-15T11:48:28+07:00
 draft: false
+categories: 
+- Linux
+tags:
+- arch-linux
+- linux
+- tutorial
+- python
 ---
 
 Assalamualaikum teman-teman.

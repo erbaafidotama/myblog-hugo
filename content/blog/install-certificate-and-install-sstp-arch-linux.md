@@ -2,6 +2,12 @@
 title: "Install Certificate and Install SSTP - Arch Linux"
 date: 2021-09-15T11:41:21+07:00
 draft: false
+categories: 
+- Linux
+tags:
+- arch-linux
+- tutorial
+- sstp
 ---
 
 Assalamualaikum warahmatullahi wabarakatuh, teman-teman.

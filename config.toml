@@ -1,5 +1,5 @@
-baseURL = 'https://erbaafidotama-blog.netlify.app'
-languageCode = 'en-us'
+baseURL = 'https://erbaafidotama-blog.netlify.app/id'
+languageCode = 'id-ID'
 title = 'Erba Afidotama Personal Website'
 theme = 'anatole'
 
@@ -11,6 +11,28 @@ Full Stack
 """
 profilePicture = "/poo.png"
 copyright = "2020-{{ YEAR }} | Theme by Anatole"
+readMore = true
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/erba-afidotama-b5641b87"
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Linkedin"
+url = "https://github.com/erbaafidotama"
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Linkedin"
+url = "https://twitter.com/erbaa_e"
+[[params.socialIcons]]
+icon = "fab fa-telegram-plane"
+title = "Linkedin"
+url = "https://t.me/erbaafidotama"
 
 [menu]
 
