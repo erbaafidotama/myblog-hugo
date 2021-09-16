@@ -12,7 +12,7 @@ tags:
 - belajar
 ---
 
-![Logo FastAPI](/static/logo-fastapi.png)
+![Logo FastAPI](https://ik.imagekit.io/pictea/logo-fastapi_Xm2rZ5c53.png?updatedAt=1631776819969)
 
 Assalamualaikum warahmatullahi wabarakatuh, teman-teman.
 
@@ -35,7 +35,7 @@ Beberapa fitur yang diberikan sama FastAPI nih:
 * Automatic Docs
 
     Dengan adanya fitur ini, kita gak perlu lagi memasang [Swagger](https://swagger.io/) untuk melakukan dokumentasi URL yang telah kita buat.
-    ![Gambar FastAPI Docs](/static/pict-fastapi-docs.png)
+    ![Gambar FastAPI Docs](https://ik.imagekit.io/pictea/pict-fastapi-docs_k-BOZXxZZiD.png?updatedAt=1631776820185)
 
 Setelah tau apa itu FastAPI dan beberapa fiturnya, mari kita mulai aja cara menggunakan FastAPI.
 
@@ -76,10 +76,10 @@ uvicorn main:app --reload
 > * --reload: membuat server lokal kita melakukan reload otomaris ketika ada perubahan pada code kita
 
 Jika berjalan dengan baik, maka kita akan mendapatkan hasil seperti di gambar.
-![Firstrun FastAPI](/static/pict-runfirst-fastapi.png)
+![Firstrun FastAPI](https://ik.imagekit.io/pictea/pict-runfirst-fastapi_F-8bLMxV4.png?updatedAt=1631776821074)
 
 Setelah server lokal kita berjalan, coba buka browser dan buka link ``http://127.0.0.1:8000``, maka hasilnya akan muncul ``"message": "Hello World"`` di dalam json.
-![Result Firstrun FastAPI](/static/pict-resultfirstrun-fastapi.png)
+![Result Firstrun FastAPI](https://ik.imagekit.io/pictea/pict-resultfirstrun-fastapi_vbzSvd7tl.png?updatedAt=1631776822006)
 
 Naahh, alhamdulillah kita telah berhasil menjalankan FastAPI. Cukup mudah bukan, tutorial selanjutnya juga sama mudahkannya kok insyaaAllah. 
 
